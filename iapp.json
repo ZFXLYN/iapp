@@ -1,5 +1,8 @@
 {
-"启动图" : "https://pan.cccyun.cc/down.php/3a935613bfad26c585b92bd5bbd933fc.jpg"
+"启动图" : {
+  "链接" : "https://pan.cccyun.cc/down.php/3a935613bfad26c585b92bd5bbd933fc.jpg"
+  "版本" : "1"
+}
 
 
 }
